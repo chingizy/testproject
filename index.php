@@ -9,7 +9,7 @@
 	<script src="js/main.js"></script>
 </head>
 <body>
-это тестовые изменения
+это тестовые изменения 2
 
 </body>
 </html>
